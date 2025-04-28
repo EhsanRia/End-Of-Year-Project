@@ -36,4 +36,7 @@ Once downloaded, go to your downloads and extract the folder
 Once extracted, open the folder in  Android Studio 
 
 Notice 
-When you first launch the android studio it might take a while for the gradle to sync
+When you first launch Android Studio, it might take a while for the Gradle to sync. This is normal 
+
+Important 
+Make sure you download the whole project file ,including the images, for the project to load properly 
