@@ -30,3 +30,10 @@ An Android device or emulator running Android 7.0 (Nougat) or above.
 Note:
 If you try to open the project without the correct Android Studio or Java setup, you may encounter errors like "Unsupported JDK version" or "Gradle sync failed".
 Make sure to update your Android Studio and install the correct JDK through the SDK Manager or your system settings.
+
+Once you can successfully launch Android Studio, download the project zip folder
+Once downloaded, go to your downloads and extract the folder 
+Once extracted, open the folder in  Android Studio 
+
+Notice 
+When you first launch the android studio it might take a while for the gradle to sync
