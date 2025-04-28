@@ -1,4 +1,4 @@
-Welcome to Trinity Rewards a simple and fun Android app where users collect reward points every time they order food
+Welcome to Trinity Rewards, a simple and fun Android app where users collect reward points every time they order food
 
 Cart System: Add and manage your fast food items.
 
@@ -15,9 +15,9 @@ Framework: Android SDK
 To run or modify the Trinity Rewards App, make sure you have the following:
 
 
-The latest version of Android Studio installed.
-(We recommend Android Studio LadyBug (as of April 2025) or newer for full compatibility with the latest Gradle and build tools.)
-Link to download android Studio
+The latest version of Android Studio is installed.
+(I recommend Android Studio LadyBug (as of April 2025) or newer for full compatibility with the latest Gradle and build tools.)
+Link to download Android Studio
 https://developer.android.com/studio?gad_source=1&gad_campaignid=21831783762&gbraid=0AAAAAC-IOZkdpD6U_BmhJQqIWzNHqlGbO&gclid=CjwKCAjwq7fABhB2EiwAwk-YbA0iAL0IORcgPxdI_15RxGM3plW-zI04UUWQry78egw1OMeOo8jCNRoCWVIQAvD_BwE&gclsrc=aw.ds 
 
 Java Development Kit (JDK) 17 or higher installed.
